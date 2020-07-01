@@ -1,0 +1,32 @@
+**GIT** :
+Git is created by **Linus Torvald**. Git is a distributed version control software. It is actual application and actual projects are manage through git.
+
+**GITHUB** :
+_Github_ is a website on which we can upload project.
+_Github_ is a software used for version control. it is useful when more than one person is working on a project. It is a web service which runs the git software we can manage repository in git.
+It supports all _programming languages_.
+**Provides secure cloud storage**.
+**It provide collaboration**.
+**Code review**.
+**Graphical representation of branches**.
+I have learned many terminology and various commands of gitbash such as : _it config_ , _git init_ ,_git clone_ , _git add_ ,_git commit_ , _git diff_ , _git reset_ , _git status_, _git log_ ,_ git show_ , _git branch_ ,_git checkout_ , _git merge_, _git remote_, _git push_ ,_git pull_
+**Step 1**: **Create a new repository**.
+**Step 2** : **Create a file**.
+**Step 3** : **Make a commit**.
+**Step 4** : **Push a branch to Github**.
+**Step 5** : **Connect your GitHub repo with your computer**.
+Step 6 : Create a Pull Request.
+
+**Cloning**    
+ when we create a repository on _GitHub_, it exists as a remote repository. we can **clone** our repository to create a local copy on our computer and sync between the two locations. When we're working with a repository on GitHub, we might want to have it on our local machine to make it easier to work with and it allows us to use our favourite editor, to add and remove files, or to fix Bug on it
+
+**Forking**      
+ **fork** is a copy of a repository that we manage. Forks let we make changes to a project without affecting the original repository. We can fetch updates from or submit changes to the original repository with pull requests. we can fork any public repository to our user account or any organization where we  have repository creation permissions.
+
+
+**Making Pull Request**
+     We can edit file or changes in file successfully, now that we have changes in a branch off of   master. you can open a_ pull request_. _Pull Requests_ are the collaboration on GitHub. When we open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red colour on line.s soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+You can even open pull requests in our own repository and merge them itself. It’s a great way to learn the GitHub flow before working on larger projects.
+**Opening issues**Use **issues**  can act as more than just a place to report software bugs. You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request. To stay updated on the most recent comments in an issue, you can watch an issue to receive notifications about the latest comments and to quickly find links to recently updated issues you're subscribed to.
+ 
+
